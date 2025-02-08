@@ -1,0 +1,12 @@
+{
+    "name": "APOCOCREED",
+    "symbol": "APC",
+    "description": "",
+    "image": "https://github.com/Manniegenie/APC-ART/blob/main/APC%20ART.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
